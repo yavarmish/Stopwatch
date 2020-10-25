@@ -1,7 +1,7 @@
 # Stopwatch
 <h3>Description</h3>
 <h5>A stop watch web application dsigned using JQuery library for Javascript</h5>
-<h5>Try it here - <a target="_blank" href="https://yavarmish.github.io/fruit_game/">Stopwatch app</a></h5>
+<h5>Try it here - <a target="_blank" href="https://yavarmish.github.io/Stopwatch/">Stopwatch app</a></h5>
 
 
 <div>
