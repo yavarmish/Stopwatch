@@ -72,7 +72,7 @@ $(function() {
     var mylapdetails =
       "<div class='lap'>" +
       "<div class='laptimetitle'>" +
-      "Lap" +
+      "Lap " +
       lapnumber +
       "</div>" +
       "<div class='laptime'>" +
